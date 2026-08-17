@@ -1,0 +1,17 @@
+# Python / Execução
+__pycache__/
+*.pyc
+*.tmp
+*.log
+
+# VS Code & IDEs
+.vscode/
+
+# Bancos de dados com dados pessoais/testes
+*.db
+!telemetria_template.db
+
+# Chaves e Segredos
+credentials.json
+token.json
+.env
