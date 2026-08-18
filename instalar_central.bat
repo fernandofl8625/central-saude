@@ -70,3 +70,4 @@ echo ===================================================
 echo  INSTALACAO CONCLUIDA COM SUCESSO!
 echo  Para abrir a Central Saude, use o 'iniciar_central.bat'.
 echo ===================================================
+pause
